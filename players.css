@@ -1,0 +1,113 @@
+body{background-image: url(/images/logo.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+   #h1{text-align: center;} 
+.asia{display: flex;margin-left: 10%;}
+   #keeper{width: 750px;border-radius: 10px;}
+
+   #btn5{background-color: cadetblue;border-radius: 5px;margin-left: 40%;padding: 10px;}
+
+   .kaluwa{display: flex;margin-left: 2%;}
+   #kalux{width: 400px;border-radius: 10px;}
+
+   #kalwa{width: 500px;border-radius: 10px;}
+   #btn6{background-color: cornflowerblue;
+    border-radius: 5px;margin-left: 50%;padding: 10px;}
+
+    .zipp{display: flex;}
+    #alvin{width: 400px;border-radius: 10px;}
+    #kidude{width: 400px;border-radius: 10px;}
+    #kedude{width: 400px;margin-left: 35%;border-radius: 10px;}
+
+   #btn7{background-color: cadetblue;border-radius: 5px;padding: 10px;margin-left: 50%;}
+
+   .mape{display: flex;margin-left: 3%;}
+   #kipe1{width: 450px;border-radius: 10px;}
+   #kipe3{width: 450px;border-radius: 10px;}
+   #map{width: 450px;border-radius: 10px;margin-left: 34%;}
+   #btn8{background-color: cadetblue;padding: 10px;border-radius: 5px;margin-left: 5%;}
+
+   .val{display: flex;margin-left: 2%;}
+   #mapp{width: 400px;border-radius: 10px;}
+   #mwana{width: 400px;border-radius: 10px;}
+   #mwana1{width: 420px;border-radius: 10px;margin-left: 30%;}
+   #btn9{margin-left: -50%;padding: 10px;border-radius: 5px;background-color: cornflowerblue;}
+
+   .bok{display: flex;margin-top: 5%;}
+   #box1{width: 450px;border-radius: 10px;}
+   #boko{width: 450px;border-radius: 10px;}
+
+   #bokl{width: 200px;border-radius: 10px;}
+   #btn10{background-color: cadetblue;padding: 10px;border-radius: 5px;margin-left: 50%;margin-top: 5%;}
+
+   .mammy{display: flex;margin-left: 5%;}
+   #mamuu{width: 350px;border-radius: 10px;}
+   #mamur{width: 350px;border-radius: 10px;}
+
+.mamu{display: flex;margin-left: 18%;}
+#marmu{width: 320px;border-radius: 10px;}
+#mariam{width: 380px;border-radius: 10px;}
+#btn11{background-color: cadetblue;padding: 10px;border-radius: 5px;margin-left: 40%;}
+
+.jesca{display: flex;margin-left: 5%;}
+#jeca{width: 400px;border-radius: 10px;}
+#jeko{width: 400px;border-radius: 10px;}
+.pendo{display: flex;margin-left: 16%;}
+#jeso{width: 400px;border-radius: 10px;}
+#kajbz{width: 400px;border-radius: 10px;}
+#btn12{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;margin-top: 2%;}
+
+.salama{display: flex;margin-left: 5%;}
+#salo1{width: 250px;border-radius: 10px;}
+#salox{width: 250px;border-radius: 10px;}
+#salooo{width: 250px;border-radius: 10px;}
+.mariga{display: flex;margin-left: 20%;}
+#seloo{width: 300px;border-radius: 10px;}
+#shaloo{width: 300px;border-radius: 10px;}
+#btn13{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;}
+
+.mwanaisha{display: flex;margin-left: 5%;}
+#img1{width: 250px;border-radius: 10px;}
+#rita{width: 260px;border-radius: 10px;}
+#tototo{width: 300px;border-radius: 10px;}
+.jilani{display: flex;margin-left: 19%;}
+#totovu{width: 260px;border-radius: 10px;}
+#mercy1{width: 260px;border-radius: 10px;}
+#totoovu{width: 300px;border-radius: 10px;}
+#btn14{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;margin-top: 2%;}
+
+.mercy{display: flex;}
+#bestm{width: 320px;border-radius: 10px;}
+#merbest{width: 240px;border-radius: 10px;}
+#mers{width: 220px;border-radius: 10px;}
+.masika{display: flex;margin-left: 20%;}
+#merstoo{width: 300px;border-radius: 10px;}
+#mertoo{width: 200px;border-radius: 10px;}
+#ndudu{width: 300px;border-radius: 10px;}
+#btn15{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;}
+
+.changawa1{display: flex;margin-left: 10%;}
+#rehe{width: 400px;border-radius: 10px;}
+#rehem{width: 400px;border-radius: 10px;}
+.chanagande{display: flex;margin-left: 26%;}
+#rehema{width: 400px;border-radius: 10px;}
+#tehma{width: 400px;border-radius: 10px;}
+#btn16{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;}
+
+.Alvin{display: flex;margin-left: 10%;}
+#alvin{width: 400px;border-radius: 10px;}
+#alvin1{width: 400px;border-radius: 10px;}
+#alvin2{width: 400px;border-radius: 10px;margin-left: 32%;}
+#btn17{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;}
+
+.eunice{display: flex;margin-top: 5%;}
+#eu{width: 500px;border-radius: 10px;}
+#euny{width: 500px;border-radius: 10px;}
+#btn18{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;margin-top: 3%;}
+
+.katore{display: flex;margin-left: 5%;}
+#katre{width: 800px;border-radius: 10px;}
+#btn19{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;margin-top: 3%;}
+

@@ -1,0 +1,14 @@
+body{background-image: url(/images/logo.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+.pics{display: flex;margin-left: 5%;}
+   .all{}
+    #coach{width: 450px;border-radius: 10px;}
+
+    #viggz{width: 600px;border-radius: 10px;margin-left: 5%;height: 450px;}
+
+    #btn3{background-color: cornflowerblue;padding: 10px;border-radius: 5px;
+        border-color: cornflowerblue;margin-left: 40%;}
+
+       

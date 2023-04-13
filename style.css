@@ -1,0 +1,6 @@
+body{background-image: url(/images/mtdu2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+.nav{text-align: center;margin-top: 8%;}
+#names{margin: 20px;}

@@ -1,0 +1,10 @@
+body{background-image: url(/images/all.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#btn1{background-color: coral;border-radius: 5px;
+    border-color: coral;margin-left: 35%;}
+
+    #btn2{background-color: yellow;border-radius: 5px;padding: 20px;
+        border-color: yellow;margin-left: 20%;}
