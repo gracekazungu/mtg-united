@@ -11,4 +11,11 @@ body{background-image: url(/images/logo.png);
     #btn3{background-color: cornflowerblue;padding: 10px;border-radius: 5px;
         border-color: cornflowerblue;margin-left: 40%;}
 
+
+        @media (max-width: 840px){
+.pics{display: grid;}
+#coach{width: 340px;}
+#viggz{width: 320px;height: 280px;}
+
+        }
        

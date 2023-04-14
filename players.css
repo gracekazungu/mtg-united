@@ -33,7 +33,9 @@ body{background-image: url(/images/logo.png);
    #mapp{width: 400px;border-radius: 10px;}
    #mwana{width: 400px;border-radius: 10px;}
    #mwana1{width: 420px;border-radius: 10px;margin-left: 30%;}
-   #btn9{margin-left: -50%;padding: 10px;border-radius: 5px;background-color: cornflowerblue;}
+   #btn0{margin-left: -40%;padding: 10px;border-radius: 5px;background-color: cornflowerblue;}
+#btn9{padding: 10px;border-radius: 5px;background-color: cornflowerblue;}
+
 
    .bok{display: flex;margin-top: 5%;}
    #box1{width: 450px;border-radius: 10px;}
@@ -110,4 +112,77 @@ body{background-image: url(/images/logo.png);
 .katore{display: flex;margin-left: 5%;}
 #katre{width: 800px;border-radius: 10px;}
 #btn19{background-color: cadetblue;padding: 10px;border-radius: 5%;border-color: cadetblue;margin-left: 45%;margin-top: 3%;}
+
+@media(max-width: 840px){
+   .asia{display: grid;}
+   #keeper{width: 350px;height: 340px;}
+   #btn5{margin-top: 10%;}
+
+ .kaluwa{display: grid;} 
+ #kalwa{width: 350px;} 
+ #kalux{width: 400px;}
+
+ .zipp{display: grid;}
+ #kedude{margin-left: -5%;}
+
+ .mape{display: grid;}
+ #map{margin-left: -0%;width: 400px;}
+ #kipe1{width: 400px;}
+ #kipe3{width: 400px;}
+
+.val{display: grid;}
+#mwana1{margin-left: 1%;}
+.bok{display: grid;}
+#bokl{width: 400px;height: 600px;}
+#box1{width: 400px;}
+#boko{width: 400px;}
+
+.mammy{display: grid;}
+.mamu{display: grid;margin-left: -0%;}
+#marmu{width: 375px;}
+#mamuu{width: 360px;}
+#mamur{width: 360px;}
+
+.jesca{display: grid;}
+.pendo{display: grid;margin-left: 5%;}
+
+.salama{display: grid;}
+.mariga{display: grid;margin-left: 0%;}
+#salo1{width: 300px;}
+#salox{width: 300px;}
+#salooo{width: 300px;}
+
+.mwanaisha{display: grid;}
+.jilani{display: grid;margin-left: 1%;}
+#img1{width: 350px;}
+#rita{width: 350px;}
+#tototo{width: 350px;}
+#totovu{width: 350px;}
+#mercy1{width: 350px;}
+#totoovu{width: 350px;}
+
+.mercy{display: grid;}
+.masika{display: grid;margin-left: 1%;}
+#bestm{width: 350px;}
+#merbest{width: 350px;}
+#mers{width: 350px;}
+#merstoo{width:350px}
+#mertoo{width: 350px;}
+#ndudu{width: 350px;}
+
+.changawa1{display: grid;margin-left: 1%;}
+.chanagande{display: grid;margin-left: 0%;}
+
+.Alvin{display: grid;margin-left: 1%;}
+#alvin2{margin-left: 1%;}
+
+.eunice{display: grid;}
+#euny{width: 400px;}
+#eu{width:400px;}
+
+.katore{display: grid;}
+#katre{width: 380px;height: 300px;margin-top: 5%;}
+}
+
+
 
