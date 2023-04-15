@@ -115,45 +115,46 @@ body{background-image: url(/images/logo.png);
 
 @media(max-width: 840px){
    .asia{display: grid;}
-   #keeper{width: 350px;height: 340px;}
+   #keeper{width: 350px;height: 300px;}
    #btn5{margin-top: 10%;}
 
  .kaluwa{display: grid;} 
- #kalwa{width: 350px;} 
+ #kalwa{width: 400px;} 
  #kalux{width: 400px;}
 
- .zipp{display: grid;}
- #kedude{margin-left: -5%;}
+ .zipp{display: grid;margin-left: -2%;}
+ #kedude{margin-left: -2%;}
 
- .mape{display: grid;}
+ .mape{display: grid;margin-left: -1.5%;}
  #map{margin-left: -0%;width: 400px;}
  #kipe1{width: 400px;}
  #kipe3{width: 400px;}
 
-.val{display: grid;}
-#mwana1{margin-left: 1%;}
+.val{display: grid;margin-left: -2%;}
+#mwana1{margin-left: -1.5%;width: 400px;}
+
 .bok{display: grid;}
 #bokl{width: 400px;height: 600px;}
 #box1{width: 400px;}
 #boko{width: 400px;}
 
-.mammy{display: grid;}
-.mamu{display: grid;margin-left: -0%;}
+.mammy{display: grid;margin-left: -2%;}
+.mamu{display: grid;margin-left: -1.5%;}
 #marmu{width: 375px;}
-#mamuu{width: 360px;}
-#mamur{width: 360px;}
+#mamuu{width: 380px;}
+#mamur{width: 380px;}
 
-.jesca{display: grid;}
-.pendo{display: grid;margin-left: 5%;}
+.jesca{display: grid;margin-left: -2%;}
+.pendo{display: grid;margin-left: -2%;}
 
-.salama{display: grid;}
+.salama{display: grid;margin-left: -0.5%;}
 .mariga{display: grid;margin-left: 0%;}
 #salo1{width: 300px;}
 #salox{width: 300px;}
 #salooo{width: 300px;}
 
-.mwanaisha{display: grid;}
-.jilani{display: grid;margin-left: 1%;}
+.mwanaisha{display: grid;margin-left: -0.5%;}
+.jilani{display: grid;margin-left: -1%;}
 #img1{width: 350px;}
 #rita{width: 350px;}
 #tototo{width: 350px;}
@@ -170,8 +171,8 @@ body{background-image: url(/images/logo.png);
 #mertoo{width: 350px;}
 #ndudu{width: 350px;}
 
-.changawa1{display: grid;margin-left: 1%;}
-.chanagande{display: grid;margin-left: 0%;}
+.changawa1{display: grid;margin-left: -1%;}
+.chanagande{display: grid;margin-left: -1%;}
 
 .Alvin{display: grid;margin-left: 1%;}
 #alvin2{margin-left: 1%;}
